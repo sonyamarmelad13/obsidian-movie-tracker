@@ -110,7 +110,7 @@
 | Плагин                                                                 | Обязательность  | Назначение        |
 | ---------------------------------------------------------------------- | --------------- | ----------------- |
 | [Dataview](https://github.com/blacksmithgu/obsidian-dataview)          | **Обязательно** | Движок DataviewJS |
-| [unofficial-kinopoisk](obsidian://show-plugin?id=unofficial-kinopoisk) | **Обязательно** | Кнопка «Добавить» |
+| [Kinopoisk Search](obsidian://show-plugin?id=unofficial-kinopoisk)     | **Обязательно** | Кнопка «Добавить» |
 
 В настройках Dataview включи опцию **Enable JavaScript Queries**.
 
