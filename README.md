@@ -280,7 +280,7 @@ tags:
 
 ### 4. Создай дашборд
 
-Создай заметку `Кинотека.md` и вставь содержимое файла [![Открыть kinoteka.md](https://img.shields.io/badge/📋_Открыть_код-CC0000?style=for-the-badge)](https://github.com/sonyamarmelad13/obsidian-movie-tracker/blob/main/kinoteka.md) из этого репозитория.
+Создай заметку `Кинотека.md` и вставь содержимое файла  [![Открыть kinoteka.md](https://img.shields.io/badge/📋_Открыть_код-CC0000?style=for-the-badge)](https://github.com/sonyamarmelad13/obsidian-movie-tracker/blob/main/kinoteka.md)  из этого репозитория.
 
 ### 5. Подготовь Hero-картинку
 
