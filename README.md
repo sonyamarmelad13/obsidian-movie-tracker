@@ -358,19 +358,19 @@ A: Проверь что путь указан от корня vault, без с�
 
 ---
 
-<div align="center">
-
-**🕷 Сделано в Obsidian с любовью к мрачной эстетике**
-
-⭐ Поставь звезду если проект понравился
-
----
-
 ## 🤝 Благодарности
 
 - **Claude (Anthropic)** — написание всей логики DataviewJS
 - **[blacksmithgu](https://github.com/blacksmithgu)** — за плагин Dataview
 - **[Alintor](https://github.com/Alintor)** — за плагин unofficial-kinopoisk
 - Сообщество Obsidian — за вдохновение
+
+---
+
+<div align="center">
+
+**🕷 Сделано в Obsidian с любовью к мрачной эстетике**
+
+⭐ Поставь звезду если проект понравился
   
 </div>
