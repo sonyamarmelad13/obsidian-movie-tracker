@@ -107,10 +107,10 @@
 
 ### 1. Установи зависимости
 
-| Плагин                                                                 | Обязательность  | Назначение        |
-| ---------------------------------------------------------------------- | --------------- | ----------------- |
-| [Dataview](https://github.com/blacksmithgu/obsidian-dataview)          | **Обязательно** | Движок DataviewJS |
-| [Kinopoisk Search](obsidian://show-plugin?id=unofficial-kinopoisk)     | **Обязательно** | Кнопка «Добавить» |
+| Плагин                                                                   | Обязательность  | Назначение        |
+| ------------------------------------------------------------------------ | --------------- | ----------------- |
+| [Dataview](https://github.com/blacksmithgu/obsidian-dataview)            | **Обязательно** | Движок DataviewJS |
+| [Kinopoisk Search](https://github.com/Alintor/obsidian-kinopoisk-plugin) | **Обязательно** | Кнопка «Добавить» |
 
 В настройках Dataview включи опцию **Enable JavaScript Queries**.
 
