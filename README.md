@@ -5,9 +5,9 @@
 <div align="center">
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
-[![Dataview](https://img.shields.io/badge/Dataview-Required-CC0000?style=for-the-badge)](https://github.com/blacksmithgu/obsidian-dataview)
+[![Dataview](https://img.shields.io/badge/Dataview-by_blacksmithgu-CC0000?style=for-the-badge)](https://github.com/blacksmithgu/obsidian-dataview)
+[![Kinopoisk Search](https://img.shields.io/badge/Kinopoisk_Search-by_Alintor-FF1A1A?style=for-the-badge)](https://github.com/Alintor/obsidian-kinopoisk-plugin)
 [![License](https://img.shields.io/badge/License-MIT-440000?style=for-the-badge)](LICENSE)
-[![Style](https://img.shields.io/badge/Style-ЧВК_Редан-FF1A1A?style=for-the-badge)]()
 
 </div>
 
@@ -226,7 +226,7 @@ tags:
 
 ---
 
-### Этап 3. Настройка плагина Kinopoisk Search
+### 3. Настройка плагина Kinopoisk Search
 
 #### 3.1. Получи API-токен
 
@@ -268,8 +268,6 @@ tags:
 Запусти команду, введи название любого фильма или сериала, выбери его из списка - в папке `Фильмы` появится новая заметка с автоматически заполненными метаданными.
 
 ---
-
-### Готово
 
 Теперь у тебя есть:
 
