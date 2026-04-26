@@ -2,6 +2,15 @@
   <img src="./screenshots/Obsidian_X2qKMT8wkN.png" alt="Кинотека Редан" width="100%"/>
 </div>
 
+<div align="center">
+
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+[![Dataview](https://img.shields.io/badge/Dataview-Required-CC0000?style=for-the-badge)](https://github.com/blacksmithgu/obsidian-dataview)
+[![License](https://img.shields.io/badge/License-MIT-440000?style=for-the-badge)](LICENSE)
+[![Style](https://img.shields.io/badge/Style-ЧВК_Редан-FF1A1A?style=for-the-badge)]()
+
+</div>
+
 ## 📖 О проекте
 Всем салют, хочу представить вам мою модель кинотеки для Obsidian, созданную с помощью плагина Dataview и Kinopoisk search. Изначально создавал чисто для себя, но может кому-то тоже будет полезно, поэтому решил выложить сюда. Код целиком и полностью написан с помощью Claude.
 
