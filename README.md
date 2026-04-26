@@ -290,6 +290,7 @@ tags:
 const HERO_IMAGE_PATH = "Attachments/redan-hero.png";
 ```
 Пример как выглядит готовая шапка с картинкой:
+
 ![Hero пример](./screenshots/Obsidian_ybhoG3BkK8.png)
 ---
 
